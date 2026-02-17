@@ -1,0 +1,18 @@
+{
+    "title": "Programming: Methods",
+    "slug": "programming-methods",
+    "description": "Introduction to methods in programming. Covers what methods are, method syntax patterns, the differences between methods that return values versus those that modify objects, and why methods are important for organizing code.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "programming",
+        "pseudocode"
+    ],
+    "duration": 8,
+    "prerequisites": [
+        "programming-calling-functions",
+        "programming-strings"
+    ],
+    "related": []
+}
