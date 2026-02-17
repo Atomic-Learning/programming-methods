@@ -12,7 +12,7 @@
     "duration": 8,
     "prerequisites": [
         "programming-calling-functions",
-        "programming-strings"
+        "programming-lists-arrays"
     ],
     "related": []
 }
