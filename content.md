@@ -26,8 +26,8 @@ object.method_name(argument1, argument2, ...)
 Breaking this down:
 
 - **object:** The thing the method belongs to
-- **.** (dot): The accessor—tells the language to look inside the object
-- **method_name:** The name of the action to perform
+- **.** (dot): The accessor — tells the language to look inside the object
+- **method_name:** The name of the method to call
 - **(arguments):** Additional information the method needs (optional)
 
 If a value is returned, you can capture it in a variable:
@@ -43,4 +43,4 @@ Methods are important because they:
 - **Organize code logically:** Related actions are grouped with their objects
 - **Hide complexity:** You don't need to know how the method works, just how to use it
 - **Enable code reuse:** Many objects of the same type share the same methods
-- **Make code readable:** <code>person.get_age()</code> is clearer than <code>extract_age(person)</code>
+- **Make code readable:** `person.get_age()` is clearer than `extract_age(person)`
