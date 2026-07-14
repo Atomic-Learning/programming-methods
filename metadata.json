@@ -12,7 +12,8 @@
     "duration": 5,
     "prerequisites": [
         "programming-calling-functions",
-        "programming-lists-arrays"
+        "programming-lists-arrays",
+        "programming-object-attributes"
     ],
     "related": []
 }
